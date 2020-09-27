@@ -29,7 +29,7 @@ const initialBookState = {
     id: 0,
     title: "",
     category: 0,
-    book: 0,
+    publisher: 0,
     author: 0
   },
   status: ""
